@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML, CSS e JS)
 - Git, Github (actions, pages)
-- href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI">Design</a>
+- <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI">Design</a>
